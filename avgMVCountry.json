@@ -1,0 +1,764 @@
+[
+ {
+   "country_code": "ALB",
+   "country": "Albania",
+   "average_mv": 3475000,
+   "player_quant": 32
+ },
+ {
+   "country_code": "DZA",
+   "country": "Algeria",
+   "average_mv": 6332352.94,
+   "player_quant": 34
+ },
+ {
+   "country_code": "AGO",
+   "country": "Angola",
+   "average_mv": 1657692.31,
+   "player_quant": 13
+ },
+ {
+   "country_code": "ARG",
+   "country": "Argentina",
+   "average_mv": 9313913.04,
+   "player_quant": 115
+ },
+ {
+   "country_code": "ARM",
+   "country": "Armenia",
+   "average_mv": 2484375,
+   "player_quant": 8
+ },
+ {
+   "country_code": "AUS",
+   "country": "Australia",
+   "average_mv": 1086363.64,
+   "player_quant": 22
+ },
+ {
+   "country_code": "AUT",
+   "country": "Austria",
+   "average_mv": 6838265.31,
+   "player_quant": 49
+ },
+ {
+   "country_code": "AZE",
+   "country": "Azerbaijan",
+   "average_mv": 200000,
+   "player_quant": 2
+ },
+ {
+   "country_code": "BLR",
+   "country": "Belarus",
+   "average_mv": 445000,
+   "player_quant": 10
+ },
+ {
+   "country_code": "BEL",
+   "country": "Belgium",
+   "average_mv": 3588162.54,
+   "player_quant": 283
+ },
+ {
+   "country_code": "BEN",
+   "country": "Benin",
+   "average_mv": 3333333.33,
+   "player_quant": 3
+ },
+ {
+   "country_code": "BOL",
+   "country": "Bolivia",
+   "average_mv": 400000,
+   "player_quant": 1
+ },
+ {
+   "country_code": "BIH",
+   "country": "Bosnia-Herzegovina",
+   "average_mv": 1717948.72,
+   "player_quant": 39
+ },
+ {
+   "country_code": "BRA",
+   "country": "Brazil",
+   "average_mv": 8331583.63,
+   "player_quant": 282
+ },
+ {
+   "country_code": "BGR",
+   "country": "Bulgaria",
+   "average_mv": 908333.33,
+   "player_quant": 9
+ },
+ {
+   "country_code": "BFA",
+   "country": "Burkina Faso",
+   "average_mv": 5792307.69,
+   "player_quant": 13
+ },
+ {
+   "country_code": "BDI",
+   "country": "Burundi",
+   "average_mv": 7000000,
+   "player_quant": 1
+ },
+ {
+   "country_code": "CMR",
+   "country": "Cameroon",
+   "average_mv": 4414444.44,
+   "player_quant": 45
+ },
+ {
+   "country_code": "CAN",
+   "country": "Canada",
+   "average_mv": 9453125,
+   "player_quant": 16
+ },
+ {
+   "country_code": "CPV",
+   "country": "Cape Verde",
+   "average_mv": 1094047.62,
+   "player_quant": 21
+ },
+ {
+   "country_code": "CAF",
+   "country": "Central African Republic",
+   "average_mv": 20000000,
+   "player_quant": 1
+ },
+ {
+   "country_code": "TCD",
+   "country": "Chad",
+   "average_mv": 1000000,
+   "player_quant": 1
+ },
+ {
+   "country_code": "CHL",
+   "country": "Chile",
+   "average_mv": 3050000,
+   "player_quant": 12
+ },
+ {
+   "country_code": "COL",
+   "country": "Colombia",
+   "average_mv": 7908152.17,
+   "player_quant": 46
+ },
+ {
+   "country_code": "COM",
+   "country": "Comoros",
+   "average_mv": 833333.33,
+   "player_quant": 6
+ },
+ {
+   "country_code": "COD",
+   "country": "Congo",
+   "average_mv": 706250,
+   "player_quant": 16
+ },
+ {
+   "country_code": "CRI",
+   "country": "Costa Rica",
+   "average_mv": 1608333.33,
+   "player_quant": 6
+ },
+ {
+   "country_code": "CIV",
+   "country": "Cote d'Ivoire",
+   "average_mv": 6607627.12,
+   "player_quant": 59
+ },
+ {
+   "country_code": "HRV",
+   "country": "Croatia",
+   "average_mv": 6216901.41,
+   "player_quant": 71
+ },
+ {
+   "country_code": "CUW",
+   "country": "Curacao",
+   "average_mv": 518750,
+   "player_quant": 8
+ },
+ {
+   "country_code": "CYP",
+   "country": "Cyprus",
+   "average_mv": 1150000,
+   "player_quant": 6
+ },
+ {
+   "country_code": "CZE",
+   "country": "Czech Republic",
+   "average_mv": 6817391.3,
+   "player_quant": 23
+ },
+ {
+   "country_code": "DNK",
+   "country": "Denmark",
+   "average_mv": 2432539.68,
+   "player_quant": 254
+ },
+ {
+   "country_code": "DOM",
+   "country": "Dominican Republic",
+   "average_mv": 5033333.33,
+   "player_quant": 3
+ },
+ {
+   "country_code": "COD",
+   "country": "DR Congo",
+   "average_mv": 4930555.56,
+   "player_quant": 18
+ },
+ {
+   "country_code": "ECU",
+   "country": "Ecuador",
+   "average_mv": 6864705.88,
+   "player_quant": 17
+ },
+ {
+   "country_code": "EGY",
+   "country": "Egypt",
+   "average_mv": 19000000,
+   "player_quant": 6
+ },
+ {
+   "country_code": "GNQ",
+   "country": "Equatorial Guinea",
+   "average_mv": 1200000,
+   "player_quant": 2
+ },
+ {
+   "country_code": "EST",
+   "country": "Estonia",
+   "average_mv": 250000,
+   "player_quant": 2
+ },
+ {
+   "country_code": "FRO",
+   "country": "Faroe Islands",
+   "average_mv": 125000,
+   "player_quant": 2
+ },
+ {
+   "country_code": "FIN",
+   "country": "Finland",
+   "average_mv": 1313461.54,
+   "player_quant": 13
+ },
+ {
+   "country_code": "FRA",
+   "country": "France",
+   "average_mv": 7804049.68,
+   "player_quant": 464
+ },
+ {
+   "country_code": "GUF",
+   "country": "French Guiana",
+   "average_mv": 1300000,
+   "player_quant": 2
+ },
+ {
+   "country_code": "GAB",
+   "country": "Gabon",
+   "average_mv": 3704166.67,
+   "player_quant": 6
+ },
+ {
+   "country_code": "GEO",
+   "country": "Georgia",
+   "average_mv": 6257812.5,
+   "player_quant": 16
+ },
+ {
+   "country_code": "DEU",
+   "country": "Germany",
+   "average_mv": 6122990.35,
+   "player_quant": 311
+ },
+ {
+   "country_code": "GHA",
+   "country": "Ghana",
+   "average_mv": 4486403.51,
+   "player_quant": 57
+ },
+ {
+   "country_code": "GRC",
+   "country": "Greece",
+   "average_mv": 1038510.1,
+   "player_quant": 206
+ },
+ {
+   "country_code": "GRD",
+   "country": "Grenada",
+   "average_mv": 1900000,
+   "player_quant": 2
+ },
+ {
+   "country_code": "GLP",
+   "country": "Guadeloupe",
+   "average_mv": 2480000,
+   "player_quant": 5
+ },
+ {
+   "country_code": "GIN",
+   "country": "Guinea",
+   "average_mv": 3116379.31,
+   "player_quant": 29
+ },
+ {
+   "country_code": "GNB",
+   "country": "Guinea-Bissau",
+   "average_mv": 1941666.67,
+   "player_quant": 6
+ },
+ {
+   "country_code": "HTI",
+   "country": "Haiti",
+   "average_mv": 480000,
+   "player_quant": 5
+ },
+ {
+   "country_code": "HND",
+   "country": "Honduras",
+   "average_mv": 900000,
+   "player_quant": 6
+ },
+ {
+   "country_code": "HUN",
+   "country": "Hungary",
+   "average_mv": 7866666.67,
+   "player_quant": 12
+ },
+ {
+   "country_code": "ISL",
+   "country": "Iceland",
+   "average_mv": 1123913.04,
+   "player_quant": 23
+ },
+ {
+   "country_code": "IDN",
+   "country": "Indonesia",
+   "average_mv": 1037500,
+   "player_quant": 2
+ },
+ {
+   "country_code": "IRN",
+   "country": "Iran",
+   "average_mv": 4281818.18,
+   "player_quant": 11
+ },
+ {
+   "country_code": "IRQ",
+   "country": "Iraq",
+   "average_mv": 750000,
+   "player_quant": 2
+ },
+ {
+   "country_code": "IRL",
+   "country": "Ireland",
+   "average_mv": 2693103.45,
+   "player_quant": 29
+ },
+ {
+   "country_code": "ISR",
+   "country": "Israel",
+   "average_mv": 3808333.33,
+   "player_quant": 12
+ },
+ {
+   "country_code": "ITA",
+   "country": "Italy",
+   "average_mv": 6289215.69,
+   "player_quant": 255
+ },
+ {
+   "country_code": "JAM",
+   "country": "Jamaica",
+   "average_mv": 5895833.33,
+   "player_quant": 12
+ },
+ {
+   "country_code": "JPN",
+   "country": "Japan",
+   "average_mv": 4002173.91,
+   "player_quant": 46
+ },
+ {
+   "country_code": "JOR",
+   "country": "Jordan",
+   "average_mv": 1800000,
+   "player_quant": 1
+ },
+ {
+   "country_code": "KAZ",
+   "country": "Kazakhstan",
+   "average_mv": 1700000,
+   "player_quant": 5
+ },
+ {
+   "country_code": "KEN",
+   "country": "Kenya",
+   "average_mv": 3125000,
+   "player_quant": 2
+ },
+ {
+   "country_code": "KOR",
+   "country": "Korea, South",
+   "average_mv": 13690909.09,
+   "player_quant": 11
+ },
+ {
+   "country_code": "KOV",
+   "country": "Kosovo",
+   "average_mv": 3848750,
+   "player_quant": 20
+ },
+ {
+   "country_code": "LVA",
+   "country": "Latvia",
+   "average_mv": 800000,
+   "player_quant": 1
+ },
+ {
+   "country_code": "LBY",
+   "country": "Libya",
+   "average_mv": 14000000,
+   "player_quant": 1
+ },
+ {
+   "country_code": "LTU",
+   "country": "Lithuania",
+   "average_mv": 400000,
+   "player_quant": 4
+ },
+ {
+   "country_code": "LUX",
+   "country": "Luxembourg",
+   "average_mv": 2414285.71,
+   "player_quant": 7
+ },
+ {
+   "country_code": "MDG",
+   "country": "Madagascar",
+   "average_mv": 1600000,
+   "player_quant": 5
+ },
+ {
+   "country_code": "MYS",
+   "country": "Malaysia",
+   "average_mv": 100000,
+   "player_quant": 1
+ },
+ {
+   "country_code": "MLI",
+   "country": "Mali",
+   "average_mv": 5347368.42,
+   "player_quant": 39
+ },
+ {
+   "country_code": "MLT",
+   "country": "Malta",
+   "average_mv": 2125000,
+   "player_quant": 2
+ },
+ {
+   "country_code": "MTQ",
+   "country": "Martinique",
+   "average_mv": 2000000,
+   "player_quant": 3
+ },
+ {
+   "country_code": "MRT",
+   "country": "Mauritania",
+   "average_mv": 2000000,
+   "player_quant": 2
+ },
+ {
+   "country_code": "MEX",
+   "country": "Mexico",
+   "average_mv": 9607692.31,
+   "player_quant": 13
+ },
+ {
+   "country_code": "MDA",
+   "country": "Moldova",
+   "average_mv": 980000,
+   "player_quant": 5
+ },
+ {
+   "country_code": "MNE",
+   "country": "Montenegro",
+   "average_mv": 2212500,
+   "player_quant": 14
+ },
+ {
+   "country_code": "MSR",
+   "country": "Montserrat",
+   "average_mv": 350000,
+   "player_quant": 1
+ },
+ {
+   "country_code": "MAR",
+   "country": "Morocco",
+   "average_mv": 4647619.03,
+   "player_quant": 63
+ },
+ {
+   "country_code": "MOZ",
+   "country": "Mozambique",
+   "average_mv": 4533333.33,
+   "player_quant": 6
+ },
+ {
+   "country_code": "NLD",
+   "country": "Netherlands",
+   "average_mv": 3791878.53,
+   "player_quant": 354
+ },
+ {
+   "country_code": "NZL",
+   "country": "New Zealand",
+   "average_mv": 1896875,
+   "player_quant": 8
+ },
+ {
+   "country_code": "NGA",
+   "country": "Nigeria",
+   "average_mv": 6872656.25,
+   "player_quant": 65
+ },
+ {
+   "country_code": "MKD",
+   "country": "North Macedonia",
+   "average_mv": 3075000,
+   "player_quant": 16
+ },
+ {
+   "country_code": "NOR",
+   "country": "Norway",
+   "average_mv": 6807936.51,
+   "player_quant": 63
+ },
+ {
+   "country_code": "PSE",
+   "country": "Palestine",
+   "average_mv": 600000,
+   "player_quant": 1
+ },
+ {
+   "country_code": "PAN",
+   "country": "Panama",
+   "average_mv": 2250000,
+   "player_quant": 2
+ },
+ {
+   "country_code": "PRY",
+   "country": "Paraguay",
+   "average_mv": 5505000,
+   "player_quant": 10
+ },
+ {
+   "country_code": "PER",
+   "country": "Peru",
+   "average_mv": 2233333.33,
+   "player_quant": 6
+ },
+ {
+   "country_code": "PHL",
+   "country": "Philippines",
+   "average_mv": 4500000,
+   "player_quant": 1
+ },
+ {
+   "country_code": "POL",
+   "country": "Poland",
+   "average_mv": 5813636.36,
+   "player_quant": 55
+ },
+ {
+   "country_code": "PRT",
+   "country": "Portugal",
+   "average_mv": 5867800.63,
+   "player_quant": 317
+ },
+ {
+   "country_code": "ROU",
+   "country": "Romania",
+   "average_mv": 1997222.22,
+   "player_quant": 18
+ },
+ {
+   "country_code": "RUS",
+   "country": "Russia",
+   "average_mv": 1521347.4,
+   "player_quant": 308
+ },
+ {
+   "country_code": "SEN",
+   "country": "Senegal",
+   "average_mv": 5160294.12,
+   "player_quant": 68
+ },
+ {
+   "country_code": "SRB",
+   "country": "Serbia",
+   "average_mv": 5921323.53,
+   "player_quant": 68
+ },
+ {
+   "country_code": "SLE",
+   "country": "Sierra Leone",
+   "average_mv": 1000000,
+   "player_quant": 5
+ },
+ {
+   "country_code": "SVK",
+   "country": "Slovakia",
+   "average_mv": 6677380.95,
+   "player_quant": 21
+ },
+ {
+   "country_code": "SVN",
+   "country": "Slovenia",
+   "average_mv": 4084090.91,
+   "player_quant": 22
+ },
+ {
+   "country_code": "ZAF",
+   "country": "South Africa",
+   "average_mv": 1250000,
+   "player_quant": 4
+ },
+ {
+   "country_code": "SSD",
+   "country": "Southern Sudan",
+   "average_mv": 150000,
+   "player_quant": 1
+ },
+ {
+   "country_code": "ESP",
+   "country": "Spain",
+   "average_mv": 7093278.3,
+   "player_quant": 425
+ },
+ {
+   "country_code": "SUR",
+   "country": "Suriname",
+   "average_mv": 2807142.86,
+   "player_quant": 7
+ },
+ {
+   "country_code": "SWE",
+   "country": "Sweden",
+   "average_mv": 3780519.48,
+   "player_quant": 77
+ },
+ {
+   "country_code": "CHE",
+   "country": "Switzerland",
+   "average_mv": 7216447.37,
+   "player_quant": 38
+ },
+ {
+   "country_code": "SYR",
+   "country": "Syria",
+   "average_mv": 575000,
+   "player_quant": 2
+ },
+ {
+   "country_code": "TZA",
+   "country": "Tanzania",
+   "average_mv": 1116666.67,
+   "player_quant": 3
+ },
+ {
+   "country_code": "THA",
+   "country": "Thailand",
+   "average_mv": 450000,
+   "player_quant": 1
+ },
+ {
+   "country_code": "GMB",
+   "country": "The Gambia",
+   "average_mv": 1889705.88,
+   "player_quant": 17
+ },
+ {
+   "country_code": "TGO",
+   "country": "Togo",
+   "average_mv": 2068181.82,
+   "player_quant": 11
+ },
+ {
+   "country_code": "TTO",
+   "country": "Trinidad and Tobago",
+   "average_mv": 2550000,
+   "player_quant": 2
+ },
+ {
+   "country_code": "TUN",
+   "country": "Tunisia",
+   "average_mv": 2015277.78,
+   "player_quant": 18
+ },
+ {
+   "country_code": "TUR",
+   "country": "Turkey",
+   "average_mv": 1816904.76,
+   "player_quant": 315
+ },
+ {
+   "country_code": "UGA",
+   "country": "Uganda",
+   "average_mv": 335000,
+   "player_quant": 5
+ },
+ {
+   "country_code": "UKR",
+   "country": "Ukraine",
+   "average_mv": 965885.42,
+   "player_quant": 394
+ },
+ {
+   "country_code": "GBR",
+   "country": "United Kingdom",
+   "average_mv": 5728471.27,
+   "player_quant": 469
+ },
+ {
+   "country_code": "USA",
+   "country": "United States",
+   "average_mv": 6809782.61,
+   "player_quant": 46
+ },
+ {
+   "country_code": "URY",
+   "country": "Uruguay",
+   "average_mv": 10111224.49,
+   "player_quant": 49
+ },
+ {
+   "country_code": "UZB",
+   "country": "Uzbekistan",
+   "average_mv": 2180000,
+   "player_quant": 5
+ },
+ {
+   "country_code": "VEN",
+   "country": "Venezuela",
+   "average_mv": 1585714.29,
+   "player_quant": 14
+ },
+ {
+   "country_code": "RNR",
+   "country": "Zambia",
+   "average_mv": 6070000,
+   "player_quant": 5
+ },
+ {
+   "country_code": "ZWE",
+   "country": "Zimbabwe",
+   "average_mv": 4750000,
+   "player_quant": 4
+ }
+]
