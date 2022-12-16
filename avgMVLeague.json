@@ -1,0 +1,93 @@
+[
+ {
+   "country_code": "BEL",
+   "league_name": "Jupiler Pro League",
+   "league": "BE1",
+   "average_mv": 1749255.95,
+   "count": 504
+ },
+ {
+   "country_code": "DNK",
+   "league_name": "Superligaen",
+   "league": "DK1",
+   "average_mv": 831349.21,
+   "count": 317
+ },
+ {
+   "country_code": "ESP",
+   "league_name": "Laliga",
+   "league": "ES1",
+   "average_mv": 9706586.83,
+   "count": 501
+ },
+ {
+   "country_code": "FRA",
+   "league_name": "Ligue 1",
+   "league": "FR1",
+   "average_mv": 6239201.45,
+   "count": 551
+ },
+ {
+   "country_code": "GBR",
+   "league_name": "Premier League",
+   "league": "GB1",
+   "average_mv": 19096960.78,
+   "count": 512
+ },
+ {
+   "country_code": "GRC",
+   "league_name": "Super League 1",
+   "league": "GR1",
+   "average_mv": 907572.12,
+   "count": 426
+ },
+ {
+   "country_code": "ITA",
+   "league_name": "Serie A",
+   "league": "IT1",
+   "average_mv": 7897547.33,
+   "count": 582
+ },
+ {
+   "country_code": "DEU",
+   "league_name": "Bundesliga",
+   "league": "L1",
+   "average_mv": 8193025.54,
+   "count": 510
+ },
+ {
+   "country_code": "NLD",
+   "league_name": "Eredivisie",
+   "league": "NL1",
+   "average_mv": 2250416.67,
+   "count": 480
+ },
+ {
+   "country_code": "POL",
+   "league_name": "Liga Portugal Bwin",
+   "league": "PO1",
+   "average_mv": 2378382.35,
+   "count": 513
+ },
+ {
+   "country_code": "RUS",
+   "league_name": "Premier Liga",
+   "league": "RU1",
+   "average_mv": 1823433.73,
+   "count": 415
+ },
+ {
+   "country_code": "TUR",
+   "league_name": "Super Lig",
+   "league": "TR1",
+   "average_mv": 1840791.81,
+   "count": 562
+ },
+ {
+   "country_code": "UKR",
+   "league_name": "Premier Liga",
+   "league": "UKR1",
+   "average_mv": 733173.08,
+   "count": 426
+ }
+]
