@@ -1,14 +1,14 @@
 country_code,league_name,league,average_mv,count
-BEL,Jupiler Pro League,BE1,1749255.95, 504.00 
-DNK,Superligaen,DK1,831349.21, 317.00 
-ESP,Laliga,ES1,9706586.83, 501.00 
-FRA,Ligue 1,FR1,6239201.45, 551.00 
-GBR,Premier League,GB1,19096960.78, 512.00 
-GRC,Super League 1,GR1,907572.12, 426.00 
-ITA,Serie A,IT1,7897547.33, 582.00 
-DEU,Bundesliga,L1,8193025.54, 510.00 
-NLD,Eredivisie,NL1,2250416.67, 480.00 
-POL,Liga Portugal Bwin,PO1,2378382.35, 513.00 
-RUS,Premier Liga,RU1,1823433.73, 415.00 
-TUR,Super Lig,TR1,1840791.81, 562.00 
-UKR,Premier Liga,UKR1,733173.08, 426.00 
+BEL,Jupiler Pro League,BE1,1749255.95,504
+DNK,Superligaen,DK1,831349.21,317
+ESP,Laliga,ES1,9706586.83,501
+FRA,Ligue 1,FR1,6239201.45,551
+GBR,Premier League,GB1,19096960.78,512
+GRC,Super League 1,GR1,907572.12,426
+ITA,Serie A,IT1,7897547.33,582
+DEU,Bundesliga,L1,8193025.54,510
+NLD,Eredivisie,NL1,2250416.67,480
+PRT,Liga Portugal Bwin,PO1,2378382.35,513
+RUS,Russian Premier League,RU1,1823433.73,415
+TUR,Super Lig,TR1,1840791.81,562
+UKR,Ukrainian Premier League,UKR1,733173.08,426
