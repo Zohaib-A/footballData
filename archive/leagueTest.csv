@@ -1,0 +1,21 @@
+Position,Club,Played,Wins,Draws,Losses,Goals,GD,Points,Season,League
+1,Test United,38,5,0,33,74:38,36,15,02/03,PremierLeague
+2,Testers,38,10,0,28,74:39,35,30,03/04,SerieA
+3,Testing,38,15,0,23,74:40,34,45,04/05,Ligue1
+4,Test United,38,20,0,18,74:41,33,60,05/06,Bundesliga
+5,Test United,38,25,0,13,74:42,32,75,02/03,LaLiga
+6,Testers,38,30,0,8,74:43,31,90,03/04,PremierLeague
+7,Testing,38,35,0,3,74:44,30,105,04/05,SerieA
+8,Test United,38,30,0,8,74:45,29,90,05/06,Ligue1
+9,Test United,38,25,0,13,74:46,28,75,02/03,Bundesliga
+10,Testers,38,20,0,18,74:47,27,60,03/04,LaLiga
+11,Testing,38,15,0,23,74:48,26,45,04/05,PremierLeague
+12,Test United,38,10,0,28,74:49,25,30,05/06,SerieA
+13,Test United,38,5,0,33,74:50,24,15,02/03,Ligue1
+14,Testers,38,0,0,38,74:51,23,0,03/04,Bundesliga
+15,Testing,38,5,0,33,74:52,22,15,04/05,LaLiga
+16,Test United,38,10,0,28,74:53,21,30,05/06,PremierLeague
+17,Test United,38,15,0,23,74:54,20,45,02/03,SerieA
+18,Testers,38,20,0,18,74:55,19,60,03/04,Ligue1
+19,Testing,38,25,0,13,74:56,18,75,04/05,Bundesliga
+20,Test United,38,30,0,8,74:57,17,90,05/06,LaLiga
